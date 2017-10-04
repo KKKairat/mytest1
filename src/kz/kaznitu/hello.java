@@ -12,6 +12,7 @@ public class hello {
         System.out.println("a= " +a);
         System.out.println("b= " +b);
 
-        System.out.println(Mymath.max(8,9));
+        System.out.println(Mymath.max3(8,9, 12));
+
     }
 }
