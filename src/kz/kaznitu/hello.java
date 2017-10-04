@@ -13,6 +13,7 @@ public class hello {
         System.out.println("b= " +b);
 
         System.out.println(Mymath.max3(8,9, 12));
-
+        System.out.println(Mymath.isEven(12));
+        System.out.println(Mymath.isEven(7));
     }
 }
