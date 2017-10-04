@@ -5,5 +5,13 @@ public class hello {
         System.out.println("Hello World!");
         System.out.println("bul zerthanalyktyn maksaty ");
         System.out.println("git pen jumys jasap uirenu");
+
+        int a= Mymath.kvadrat(5);
+        int b = Mymath.kub(5);
+
+        System.out.println("a= " +a);
+        System.out.println("b= " +b);
+
+        System.out.println(Mymath.max(8,9));
     }
 }
