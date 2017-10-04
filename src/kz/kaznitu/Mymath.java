@@ -37,5 +37,8 @@ public class Mymath {
         int min = min(a, b);
         return min(min, c);
     }
+    public static int isOdd(int a){
+        return (a%2!=0);
+    }
 }
 
